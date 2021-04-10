@@ -7,3 +7,4 @@
 	path = dclone
 	url = https://github.com/datacloning/dclone
 	shallow = true
+	registered = true
