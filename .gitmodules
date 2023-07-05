@@ -5,3 +5,6 @@
 [submodule "dclone"]
 	path = dclone
 	url = https://github.com/datacloning/dclone
+[submodule "dcmle"]
+	path = dcmle
+	url = https://github.com/datacloning/dcmle
